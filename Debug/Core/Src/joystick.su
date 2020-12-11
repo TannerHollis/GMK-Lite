@@ -1,0 +1,7 @@
+joystick.c:23:6:Init_Joysticks	16	static
+joystick.c:59:6:Calibrate_Joysticks	24	static
+joystick.c:87:6:Update_Bounds	16	static
+joystick.c:112:6:Map_Values	24	static
+joystick.c:134:6:Update_Values	16	static
+joystick.c:170:9:map	40	static
+joystick.c:209:9:absolute	16	static
